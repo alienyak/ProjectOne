@@ -16,4 +16,4 @@ pyrsistent==0.18.1
 pytz==2022.1
 qrcode==6.1
 six==1.16.0
-Werkzeug==2.1.2
+Werkzeug==3.0.6
