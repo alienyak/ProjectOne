@@ -11,9 +11,9 @@ itsdangerous==2.1.2
 Jinja2==3.1.6
 jsonschema==4.7.2
 MarkupSafe==2.1.1
-Pillow==10.3.0
+Pillow>=12.3.0
 pyrsistent==0.18.1
 pytz==2022.1
 qrcode==6.1
 six==1.16.0
-Werkzeug==3.1.5
+Werkzeug>=3.1.5
